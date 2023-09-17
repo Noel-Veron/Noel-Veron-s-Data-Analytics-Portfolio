@@ -1,6 +1,6 @@
 # Project 1: Supply Chain Data Analysis
 
-During my internship at AI-Variant, I dove into Sales and Inventory data, turning numbers into clear insights with cool, interactive dashboards using Excel, Power BI, and Tableau.
+During my internship at AI-Variant, I dove into Sales and Inventory data, turning numbers into clear insights with cool, interactive dashboards using Excel, Power BI, & Tableau.
 
 * **Analytics Solutions Development:** Collaborated with cross-functional teams, including supply chain and
 sales, to develop scalable analytics solutions using MySQL, Tableau, Excel, and Power BI, optimizing data for
