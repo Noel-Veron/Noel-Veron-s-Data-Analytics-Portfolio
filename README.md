@@ -18,8 +18,12 @@ sales dip in 2023 due to 68% understocking.
 * **Collaboration and Reporting:** Worked across teams, to deliver insightful reporting dashboards in Excel,
 Tableau, and Power BI.
 
+
+### Dashboard in Excel:
 ![Excel](https://github.com/Noel-Veron/Noels-Protfolio/assets/145271494/38925ff1-5137-480b-a124-621dd8ddfd2a)
 
+### Dashboard in Power BI:
 ![Power BI](https://github.com/Noel-Veron/Noels-Protfolio/assets/145271494/dec28f3f-b31e-432c-bc1f-f2e2f0086703)
 
+### Dashboard in Tableau:
 ![Tableau](https://github.com/Noel-Veron/Noels-Protfolio/assets/145271494/517b3afe-7b0b-4232-b419-c6b1538fa3ea)
