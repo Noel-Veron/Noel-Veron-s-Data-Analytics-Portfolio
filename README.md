@@ -18,4 +18,5 @@ sales dip in 2023 due to 68% understocking.
 * **Collaboration and Reporting:** Worked across teams, to deliver insightful reporting dashboards in Excel,
 Tableau, and Power BI.
 
-![Supply Chain Dashboard in Excel](Excel.jpg)
+![Excel](https://github.com/Noel-Veron/Noels-Protfolio/assets/145271494/38925ff1-5137-480b-a124-621dd8ddfd2a)
+
