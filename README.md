@@ -20,3 +20,6 @@ Tableau, and Power BI.
 
 ![Excel](https://github.com/Noel-Veron/Noels-Protfolio/assets/145271494/38925ff1-5137-480b-a124-621dd8ddfd2a)
 
+![Power BI](https://github.com/Noel-Veron/Noels-Protfolio/assets/145271494/dec28f3f-b31e-432c-bc1f-f2e2f0086703)
+
+![Tableau](https://github.com/Noel-Veron/Noels-Protfolio/assets/145271494/517b3afe-7b0b-4232-b419-c6b1538fa3ea)
