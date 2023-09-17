@@ -1,5 +1,3 @@
-# Noel's Portfolio
-
 # Project 1: Supply Chain Data Analysis
 
 I interned at AI-Variant where I was tasked to analyse the Sales and Inventory data of a Supply Chain Unit.
