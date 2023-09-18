@@ -29,7 +29,7 @@ Tableau, and Power BI.
 
 # Project 2: Air Crash Data Analysis
 
-Being an Aerospace Engineering graduate, I wanted to work on a large aircraft data which led me to this data set in Kaggle.
+As an Aerospace Engineering graduate, I wanted to work on aircraft-related data and see what can I learn from it. In the process, I landed on a data set on Kaggle and I decided to work on it and create a compelling dashboard in Power BI.
 
 * Data Cleaning: I cleaned the dataset by removing blank rows and eliminating unnecessary characters, ensuring a pristine foundation for analysis.
 * Data Integration: To enhance the dataset's coherence, I merged a few columns, facilitating a more intuitive analysis process.
