@@ -31,10 +31,13 @@ Tableau, and Power BI.
 
 As an Aerospace Engineering graduate, I wanted to work on aircraft-related data and see what can I learn from it. In the process, I landed on a data set on Kaggle and I decided to work on it and create a compelling dashboard in Power BI.
 
-* Data Cleaning: I cleaned the dataset by removing blank rows and eliminating unnecessary characters, ensuring a pristine foundation for analysis.
-* Data Integration: To enhance the dataset's coherence, I merged a few columns, facilitating a more intuitive analysis process.
-* User-Friendly Interface: I incorporated an easy Year slicer, which enables users to explore specific years and their corresponding analyses.
-* Effective Visualization: Given the limited data details, I prioritized colour schemes, employing two distinct themes to enhance data visualization.
+* **Data Cleaning:** I cleaned the dataset by removing blank rows and eliminating unnecessary characters, ensuring a pristine foundation for analysis.
+  
+* **Data Integration:** To enhance the dataset's coherence, I merged a few columns, facilitating a more intuitive analysis process.
+  
+* **User-Friendly Interface:** I incorporated an easy Year slicer, which enables users to explore specific years and their corresponding analyses.
+  
+* **Effective Visualization:** Given the limited data details, I prioritized colour schemes, employing two distinct themes to enhance data visualization.
   
 ## Thoughts
 
