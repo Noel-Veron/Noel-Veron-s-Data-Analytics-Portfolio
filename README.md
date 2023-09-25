@@ -71,3 +71,9 @@ It was evident that reaching out to customers with 1 to 5 calls was the sweet sp
 * **Loan Types and Customer Loyalty:** I observed that customers with both personal and home loans showed lower interest in subscribing to a new policy. The analysis suggested that the bank should focus its efforts on audiences with either no loans or home loans for better campaign performance. Additionally, loyal and long-standing customers displayed a higher conversion rate for the new policy, emphasizing the importance of nurturing existing client relationships.
 
 In conclusion, this data analysis not only sheds light on the performance of the Bank's Marketing campaign but also provides actionable insights for future strategies. By targeting the right demographic, optimizing contact methods, maintaining consistency, and focusing efforts on specific customer segments, the banking institution can significantly enhance the effectiveness of its direct marketing campaigns. These findings underscore the power of data analysis in driving informed decision-making and improving business outcomes.
+
+### Campaign Overview:
+![Bank 1](https://github.com/Noel-Veron/Noels-Protfolio/assets/145271494/ef7a7742-aee6-455c-9ca0-e40e8ff129d9)
+
+### Campaign Performance:
+![Bank 2](https://github.com/Noel-Veron/Noels-Protfolio/assets/145271494/14b16391-7534-474a-82de-be671712c8a5)
