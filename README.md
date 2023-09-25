@@ -66,7 +66,7 @@ Remarkably, 79% of this demographic had no defaults on their existing loans, mak
 * **Optimizing Contact Methods:** The analysis revealed that a higher number of subscribers were acquired through cellular mode of contact.
 It was evident that reaching out to customers with 1 to 5 calls was the sweet spot. Therefore, I recommended limiting the number of calls to a maximum of three for optimal results.
 
-* **Consistency in Marketing Efforts:** An interesting finding was the importance of maintaining a consistent volume of calls each month. By targeting approximately 6,000 calls per month, primarily via cellular devices, and leveraging the current conversion rate of 8.877%, the bank could potentially sign up close to 5,700 subscribers for their new policy. This data-driven approach ensures a more predictable outcome.
+* **Consistency in Marketing Efforts:** An interesting finding was the importance of maintaining a consistent volume of calls each month. By targeting approximately 6,000 calls per month, primarily via cellular devices, and leveraging the current conversion rate of 8.877%, the bank could potentially sign up close to 5,700 subscribers for their new policy which is about 22% growth. This data-driven approach ensures a more predictable outcome.
 
 * **Loan Types and Customer Loyalty:** I observed that customers with both personal and home loans showed lower interest in subscribing to a new policy. The analysis suggested that the bank should focus its efforts on audiences with either no loans or home loans for better campaign performance. Additionally, loyal and long-standing customers displayed a higher conversion rate for the new policy, emphasizing the importance of nurturing existing client relationships.
 
