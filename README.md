@@ -15,7 +15,7 @@ insights to enhance decision-making. Conducted cohort analysis for inventory and
 sales dip in 2023 due to 68% understocking.
 
 * **Collaboration and Reporting:** Worked across teams, to deliver insightful reporting dashboards in Excel,
-Tableau, and Power BI.
+Tableau, & Power BI.
 
 
 ###  Excel Dashboard:
