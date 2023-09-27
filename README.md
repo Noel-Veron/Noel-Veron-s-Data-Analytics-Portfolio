@@ -1,3 +1,5 @@
+# Noel Veron's Data Analytics Portfolio
+
 # Project 1: Supply Chain Data Analysis
 
 During my internship at AI-Variant, I dove into Sales and Inventory data, turning numbers into clear insights with cool, interactive dashboards using Excel, Power BI, & Tableau.
